@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdUDojQIUq+yXMvmG4YyivTPEFPK4lUFHgVTKNnwZ93FbfEIxjFX64BCk3NPxX/Dftq5DOUtyONWt1VX9DKSuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexandr-PC\\source\\repos\\TelegramPCControl\\TelegramPCControl\\TelegramPCControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandr-PC\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Alexandr-PC\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Alexandr-PC\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\Alexandr-PC\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
